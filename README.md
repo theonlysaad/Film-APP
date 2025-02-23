@@ -1,4 +1,3 @@
-```markdown
 # Film App - React Native
 
 📌 **Description**
