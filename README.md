@@ -1,5 +1,3 @@
-Voici un exemple de fichier `README.md` pour une application React Native qui affiche une liste de films tendance et permet de rechercher des films spécifiques via l'intégration de l'API TMDB :
-
 ```markdown
 # Film App - React Native
 
